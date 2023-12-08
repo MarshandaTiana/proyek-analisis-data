@@ -10,6 +10,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 ## Link Streamlit App
-[Streamlit App](https://proyek-data-marshanda-tiana.streamlit.app/)
+[Link Streamlit App](https://proyek-data-marshanda-tiana.streamlit.app/)
 
-![Screenshot Streamlit App](https://drive.google.com/file/d/1fHwcaaoMIMIQCs5-56wuTXmC48sQhsm1/view?usp=sharing)
+![Screenshot Streamlit App](https://drive.google.com/uc?export=download&id=1fHwcaaoMIMIQCs5-56wuTXmC48sQhsm1)
